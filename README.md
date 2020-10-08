@@ -81,3 +81,6 @@ My final report includes the following:
   * Total Purchase Value
 
 ## Analysis
+There were a few things I noticed as a result of this data:
+
+1. This game is very popular with people in their late teens and early twenties, the latter of which is almost half the overall player population.
